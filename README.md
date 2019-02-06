@@ -11,7 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-<img src="http://g.recordit.co/TKRihQcRor.gif" width=250><br>
+<img src="http://g.recordit.co/2ibipumHYf.gif" width=250><br>
 
 ### Notes
 In this assingment I got stuck when trying to first implement the collection view. My code block of network requests was not being ran because my collectionView did not have an identifier.
